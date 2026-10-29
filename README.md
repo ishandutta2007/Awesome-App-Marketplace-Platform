@@ -220,7 +220,7 @@ Contributions are warmly welcomed! Help make this curated directory the ultimate
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-marketplace`).
 3. 📝 **Add or update entries** following the established format:
    - Name and direct hyperlink
-   - Repo star count social badge
+   - Repo Stars_Count social badge
    - Architecture categorization and tech stack
    - Best-use scenarios and trade-offs
 4. 🧪 **Ensure all links are live, accurate, and markdown-compliant**.
